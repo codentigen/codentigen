@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codentigen&show_icons=true&theme=radical"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=codentigen&show_icons=true&theme=radical"/>
 
-<img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" />
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" />
 
 
 

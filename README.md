@@ -8,7 +8,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=codentigen&show_icons=true&theme=radical"/>
 
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" />
+<p align="right"> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" /></p>
 
 
 <p align ="center"> <a href="https://saweria.co/codentigen"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a></p>

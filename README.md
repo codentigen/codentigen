@@ -8,7 +8,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=codentigen&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" />
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=codentigen&" alt="codentigen" />
 
 
 

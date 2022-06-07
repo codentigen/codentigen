@@ -31,6 +31,9 @@
 <h3 align="center">Support:</h3>
 <p align ="center" ><a href="https://saweria.co/codentigen"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codentigen" /></a></p><br><br>
 
+
+<p align="center">Made with ❤️ by Eos Ageng</p>
+
 <!---
 codentigen/codentigen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
